@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/settings_popular"
+        android:title="@string/action_settings_popular"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item android:id="@+id/settings_highest"
+        android:title="@string/action_settings_highest"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item android:id="@+id/settings_favorites"
+        android:title="@string/action_settings_favorites"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+</menu>

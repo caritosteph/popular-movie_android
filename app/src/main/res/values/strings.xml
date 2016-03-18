@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Movie Time</string>
+    <string name="action_settings">Setting</string>
+    <string name="action_settings_popular">Most Popular</string>
+    <string name="action_settings_highest">Highest Rated</string>
+    <string name="action_settings_favorites">Favorites</string>
+    <!-- Detail labels -->
+    <string name="title_detail_activity">Movie Detail</string>
+    <string name="movie_release_date">Release date </string>
+    <string name="movie_vote_average">Rating</string>
+    <string name="movie_details">Details</string>
+    <string name="movie_trailers">Trailers</string>
+    <string name="movie_reviews">Reviews</string>
+    <string name="movie_synopsis">Synopsis</string>
+    <!-- Favorites actions-->
+    <string name="remove_favorites">Removed from Favorites</string>
+    <string name="add_favorites">Added to Favorites</string>
+    <!-- Poster Image params -->
+    <string name="image_url">http://image.tmdb.org/t/p/</string>
+    <string name="image_size_w342">w342</string>
+    <!--Share action -->
+    <string name="action_share">Share</string>
+    <string name="action_favorite">Favorite</string>
+    <!-- Contract -->
+    <string name="authority" translatable="false">com.carito.movies</string>
+    <!-- Trailer -->
+    <string name="youtube_url">http://www.youtube.com/watch?v=</string>
+    <string name="youtube_image">http://img.youtube.com/vi/</string>
+
+</resources>
